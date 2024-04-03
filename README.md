@@ -23,7 +23,7 @@ Small-Screen Design        |  Large-Screen Design
 ### Links
 
 - Solution URL: [Frontend-Mentor--qr-code-component](https://github.com/Twixii99/Frontend-Mentor--qr-code-component)
-- Live Site URL: [live-site-url](https://your-live-site-url.com)
+- Live Site URL: [live-site-url](https://twixii99.github.io/Frontend-Mentor--qr-code-component/)
 
 ## My process
 
